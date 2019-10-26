@@ -1,0 +1,10 @@
+@import '../../App/App.scss';
+
+.addNew {
+  background: $darkColor;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: calc(50% - 100px);
+  left: calc(50% - 100px);
+}
